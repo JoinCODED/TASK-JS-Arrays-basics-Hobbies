@@ -1,6 +1,12 @@
-1. Create an empty array `emptyArray`
-2. Create an array `hobbies`, add 6 hobbies to it
-3. Create an array `numbers`, add your favorite 5 numbers
+
+
+
+
+
+1. Fork and clone [this repo](https://github.com/JoinCODED/TASK-arrays-basics/)
+2. Create an empty array `emptyArray`
+3. Create an array `hobbies`, add 6 hobbies to it
+4. Create an array `numbers`, add your favorite 5 numbers
 5. Print out the second number from the array `numbers`
 6. Print out the last hobby from the array `hobbies`
 7. Add a fake hobby to the end of the array `hobbies` 
