@@ -14,5 +14,5 @@
 9. Print the length of array `hobbies`
 10. Remove the last 2 hobbies from array `hobbies`
 11. Print length of `hobbies`
-12. Empty the array `hobbies`
-13. Print every element in hobbies in a single line
+12. Print every element in hobbies in a single line
+13. Empty the array `hobbies`
